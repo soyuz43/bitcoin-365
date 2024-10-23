@@ -48,7 +48,7 @@ Contributions are welcome! Please read the [CONTRIBUTING.md](https://github.com/
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/soyuz43/bitcoin-365/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md]([https://github.com/soyuz43/bitcoin-365/blob/main/LICENSE](https://github.com/soyuz43/bitcoin-365/blob/main/LICENSE.md)) file for details.
 
 ## Acknowledgments
 
